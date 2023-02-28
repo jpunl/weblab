@@ -1,3 +1,4 @@
-## Workshop 1 Conclusion
+## Snake
 
-Open up index.html in a browser of your choice.
+grid size: 21 x 21
+
